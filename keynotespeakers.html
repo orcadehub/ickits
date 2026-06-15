@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <style>
+      /* Custom styles for a lavish design */
+      .speaker-card {
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        border: none;
+        border-radius: 15px;
+        overflow: hidden;
+        background: linear-gradient(145deg, #ffffff, #f8f9fa);
+        box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      }
+      .speaker-card:hover {
+        transform: translateY(-10px);
+        box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+      }
+      .speaker-card img {
+        height: 300px;
+        width: 100%;
+        object-fit: cover;
+        object-position: center;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+      }
+      .speaker-card .card-body {
+        padding: 1.5rem;
+        text-align: center;
+      }
+      .speaker-card .card-title {
+        color: #ff69b4;
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+      }
+      .speaker-card .card-subtitle {
+        color: #343a40;
+        font-size: 1.25rem;
+        margin-bottom: 0.75rem;
+      }
+      .speaker-card .card-text {
+        color: #6c757d;
+        font-size: 1rem;
+      }
+      .section-title {
+        color: #ff69b4;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        border-bottom: 3px solid #17a2b8;
+        padding-bottom: 10px;
+      }
+      @media (max-width: 768px) {
+        .speaker-card img {
+          height: 250px;
+        }
+      }
+    </style>
+    <title>Keynote Speakers - ICKITS 2026</title>
+      <link rel="stylesheet" href="style.css" />
+</head>
+  <body>
+    <div id="header" class="sticky-top"></div>
+
+    <!-- Keynote Speakers -->
+    <div class="container my-5">
+      <h1 class="display-4 text-center mb-4 section-title">Keynote Speakers</h1>
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+        <div class="col">
+          <div class="card speaker-card h-100">
+            <img
+              src="./images/debasis.jpg"
+              class="card-img-top"
+              alt="Dr. Debasis Samantha"
+            />
+            <div class="card-body">
+              <h4 class="card-subtitle mb-2">Dr. Debasis Samantha</h4>
+              <p class="card-text">
+                Professor, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, India.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card speaker-card h-100">
+            <img
+              src="./images/damodar.png"
+              class="card-img-top"
+              alt="Dr. Damodar Reddy Edla"
+            />
+            <div class="card-body">
+              <h4 class="card-subtitle mb-2">Dr. Damodar Reddy Edla</h4>
+              <p class="card-text">
+                Associate Professor, Department of Computer Science and Engineering, National Institute of Technology, Goa.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card speaker-card h-100">
+            <img
+              src="./images/arun.png"
+              class="card-img-top"
+              alt="Dr. P. Arun raj Kumar"
+            />
+            <div class="card-body">
+              <h4 class="card-subtitle mb-2">Dr. P. Arun raj Kumar</h4>
+              <p class="card-text">
+                Associate Professor, National Institute of Technology Calicut.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card speaker-card h-100">
+            <img
+              src="./images/sachi.png"
+              class="card-img-top"
+              alt="Dr. Sachi Nandan Mohanty"
+            />
+            <div class="card-body">
+              <h4 class="card-subtitle mb-2">Dr. Sachi Nandan Mohanty</h4>
+              <p class="card-text">
+                Singidunum University, Serbia.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card speaker-card h-100">
+            <img
+              src="./images/phaneendra.png"
+              class="card-img-top"
+              alt="Mr. Phaneendra Nath"
+            />
+            <div class="card-body">
+              <h4 class="card-subtitle mb-2">Mr. Phaneendra Nath</h4>
+              <p class="card-text">
+                Machine Learning Engineer, American Express, Sunnyvale, California, United states.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
+    <script src="header.js"></script>
+    <script src="footer.js"></script>
+  </body>
+</html>

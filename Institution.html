@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x"
+      crossorigin="anonymous"
+    />
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="./images/logo.jpeg" type="image/x-icon" />
+    <title>About University - ICCIET 2026</title>
+    <style>
+      .mapouter {
+        position: relative;
+        text-align: right;
+        width: 100%;
+        height: 400px;
+      }
+      .gmap_canvas {
+        overflow: hidden;
+        background: none !important;
+        width: 100%;
+        height: 400px;
+      }
+      .gmap_iframe {
+        height: 400px !important;
+      }
+    </style>
+      <link rel="stylesheet" href="style.css" />
+</head>
+  <body class="bg-light">
+    <div id="header"></div>
+
+    <section class="container my-5 bg-white shadow-lg rounded-3" id="about-conf" data-aos="fade-up">
+      <div class="text-center border-bottom border-info border-3 mb-4">
+        <h2 style="color: #ff69b4;">About <span class="text-info">University</span></h2>
+      </div>
+      <div class="text-center mb-4" data-aos="fade-up" data-aos-delay="200">
+        <img src="./images/institute.jpeg" class="img-fluid rounded" alt="Institute" style="max-width: 100%;" />
+      </div>
+      <div class="text-justify px-4">
+        <p>
+          Mohan Babu University is a State Private University promoted by Sree Vidyanikethan Educational Trust under the leadership of Dr. M. Mohan Babu, Ex Rajyasabha Member, Producer, Cine Artiste and a great Philanthropist. The University is located in Tirupati, Chittoor District, Andhra Pradesh, India. Mohan Babu University promotes excellence in all the frontiers of Engineering, Pharmacy, Liberal Arts & Sciences, Agriculture, Education, Journalism, Management, Performing and Arts, MB Film Academy, Paramedical and Health Sciences.
+        </p>
+        <p>
+          MBU's advanced curriculum, expert mentorship, best-in-class facilities with a safe 5-star rated campus, and 65+ clubs are poised to help students innovate, learn and lead the next, today. In a constantly changing world, only talent that is future-ready can take the baton ahead. Therefore, MBU focuses on delivering a unique blend of academic brilliance, discipline and dynamism. Groomed in such an inspiring culture, a community of thousands of students is preparing for a future of success. We are pleased to see them soar high with rewarding opportunities in companies like Google and Amazon this academic year. We are confident that each one of our students is nurtured and well supported to make a difference in a unique way.
+        </p>
+      </div>
+    </section>
+
+    <section id="venue2" class="container my-5 bg-white shadow-lg rounded-3" data-aos="fade-up">
+      <div class="row align-items-center">
+        <div class="col-md-6">
+          <div class="mapouter">
+            <div class="gmap_canvas">
+              <iframe
+                class="gmap_iframe"
+                width="100%"
+                frameborder="0"
+                scrolling="no"
+                marginheight="0"
+                marginwidth="0"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.788469126022!2d79.28729231405019!3d13.623306003930361!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bb2b511cbefcaf3%3A0x4eb0b29e1d33b522!2sMohan%20Babu%20University!5e1!3m2!1sen!2sus!4v1681133903577!5m2!1sen!2sus"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 d-flex flex-column justify-content-center text-center">
+          <h2 class="text-info">Venue</h2>
+          <div class="p-3">
+            <h4 style="color: #ff69b4;">MOHAN BABU UNIVERSITY</h4>
+            <p>Sree Sainath Nagar, Tirupati-517 102</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div id="footer"></div>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-gtEjrD/SeCtmISkJkNUaaKMoLD0//ElJ19smozuHV6z3Iehds+3Ulb9Bn9Plx0x4"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+      AOS.init();
+    </script>
+    <script src="header.js"></script>
+    <script src="footer.js"></script>
+  </body>
+</html>

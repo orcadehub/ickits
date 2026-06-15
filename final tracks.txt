@@ -1,0 +1,97 @@
+Call for Paper
+ICKITS’26 has been widely deployed to discuss Innovations and Technologies to achieve Sustainable Development Goals by United Nations. Contributions are invited across all the disciplines of Engineering toward the Sustainable Society, Sustainable Technology & Education, Sustainable economy, Sustainable health care, sustainable cities and Sustainable living, but not limited.
+1.Foundation and Frontiers of Artificial Intelligence for Sustainable Futures
+Trustworthy and explainable AI for real-world decision systems 
+Generative AI for sustainable design, planning, and innovation 
+Human-AI collaboration and intelligent user experience design 
+Ethical, legal, and governance frameworks for responsible AI 
+AI adoption strategies for resilient and sustainable organizations 
+2. Next-Generation Machine Learning and Deep Learning Systems
+Sustainable and energy-efficient machine learning architectures 
+Federated, edge, and privacy-preserving learning systems 
+Fairness, accountability, and bias mitigation in ML models 
+Reinforcement and self-supervised learning for dynamic environments 
+Hybrid deep learning models for complex intelligent applications 
+3.Smart Agriculture, Food Systems, and Rural Innovation Technologies
+Precision agriculture using AI, IoT, and data-driven decision systems 
+Satellite, drone, and sensor-based crop monitoring and yield analytics 
+Climate-smart farming technologies for resilient food production 
+Blockchain-enabled agricultural traceability and food transparency 
+AgriTech policy, rural innovation ecosystems, and sustainable livelihoods 
+4.Digital Twins and Intelligent Simulation for Sustainability
+Digital twins for smart manufacturing and infrastructure systems 
+Urban digital twins for planning and sustainability assessment 
+Twin-driven optimization in healthcare, agriculture, and energy 
+Simulation-based forecasting for complex socio-technical systems 
+Data fusion and real-time synchronization for digital twin ecosystems 
+5.Responsible Innovation, Policy, and Technology Foresight
+Governance of emerging technologies in uncertain futures 
+Responsible research and innovation for sustainable development 
+Scenario planning and technology foresight for policymakers 
+Standards, regulations, and compliance in digital transformation
+Cross-sector policy frameworks for sustainable technological growth 
+6. Data Science, Decision Intelligence, and Sustainable Analytics
+Big data platforms for sustainability intelligence 
+Decision support systems for complex policy and management problems 
+Visual analytics for climate, health, and urban systems 
+Responsible data ecosystems and open knowledge platforms 
+Predictive analytics for sustainable organizational transformation
+7. Circular Economy, Smart Materials, and Sustainable Industrial Innovation
+Intelligent systems for waste reduction, recycling, and resource recovery 
+Circular manufacturing models enabled by digital technologies 
+Smart and sustainable materials for future engineering applications 
+Lifecycle assessment and eco-design for industrial systems 
+Industrial symbiosis and data-driven sustainability optimization 
+8.Quantum Technologies, Advanced Devices, and Photonic Systems
+Quantum computing frameworks for sustainable optimization problems 
+Silicon photonics and next-generation optical communication systems 
+Advanced semiconductor devices, memory, and logic architectures 
+2D materials, heterogeneous integration, and nanoelectronic fabrication 
+Scalable quantum hardware, packaging, and fault-tolerant systems 
+9.Cybersecurity, Digital Trust, and Privacy Engineering
+AI-enabled cyber threat intelligence and autonomous defense systems 
+Cyber resilience in critical infrastructure and industrial ecosystems 
+Privacy-preserving analytics, anonymization, and differential privacy 
+Digital forensics, anomaly traceback, and attack attribution 
+Cyber policy, governance, and economics of data protection 
+10. Advancing Blockchain and Distributed Technologies
+     Blockchain scalability and consensus protocols 
+     Energy-efficient blockchain alternatives (PoS, DAGs) 
+     Interoperability between blockchain networks  
+     Regulatory outlook for blockchain integration 
+     Blockchain for supply chain traceability
+Manuscript Submission Guidelines
+We invite researchers, academicians, industry professionals, and practitioners to submit original, high-quality, and unpublished research papers presenting conceptual, innovative, experimental, or theoretical contributions in the conference themes and related areas. Submission of a manuscript implies that the work has not been previously published and is not under consideration for publication elsewhere.
+General Guidelines
+	•	Manuscripts should be prepared according to the conference template and must be limited to 6–8 pages, including figures, tables, and references.
+	•	All submitted papers will undergo a double-blind peer-review process and will be evaluated based on originality, technical quality, relevance, significance, and clarity of presentation.
+	•	The corresponding author is responsible for ensuring that all co-authors have reviewed and approved the submitted manuscript and consented to its publication.
+	•	Authors are solely responsible for the content of their submissions, including obtaining necessary permissions for copyrighted material.
+	•	The conference organizers and publisher shall not be held liable for any claims arising from the content of submitted papers.
+	•	Authors will be notified of the review outcome (acceptance, revision, or rejection) via email.
+	•	At least one author of each accepted paper must complete the conference registration and present the paper at the conference for inclusion in the conference proceedings.
+Guidelines for Oral Presentation
+Authors of accepted papers are required to present their work during the conference. Each presentation will be allotted 15 minutes, including time for questions and discussion. You can use any form of presentation you wish. Please arrive for your presentation early to ensure the necessary arrangements.
+Speakers details
+
+     Dr.Debasis Samantha,Professor,
+     Department of Computer Science and Engineering,
+     Indian Institute of Technology Kharagpur, India.
+
+
+
+Dr. Damodar Reddy Edla
+Associate Professor, Department of Computer Science and Engineering, 
+      National Institute of Technology, Goa.
+      
+     Dr.P.Arun raj Kumar , Assocaite Professor,
+     National Institute of Technology Calicut.
+
+Dr.Sachi Nandan Mohanty, Singidunum University, Serbia,                                                                                  Mail id: snandan.mohanty@singidunum.ac.rs
+
+
+
+       
+ Mr.Phaneendra Nath,
+Machine Learning Engineer,
+American Express,Sunnyvale,California,United states.
