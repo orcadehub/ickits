@@ -51,7 +51,6 @@ document.getElementById('header').innerHTML = `
             <li class="nav-item"><a href="registration.html" class="nav-link text-white fw-bold" style="white-space: nowrap; font-size: 0.85rem;">Registration</a></li>
             <li class="nav-item"><a href="keynotespeakers.html" class="nav-link text-white fw-bold" style="white-space: nowrap; font-size: 0.85rem;">Keynote Speakers</a></li>
             <li class="nav-item"><a href="imp_dates.html" class="nav-link text-white fw-bold" style="white-space: nowrap; font-size: 0.85rem;">Important Dates</a></li>
-            <li class="nav-item"><a href="sessions.html" class="nav-link text-white fw-bold" style="white-space: nowrap; font-size: 0.85rem;">Special Sessions</a></li>
             <li class="nav-item"><a href="cnf_team.html" class="nav-link text-white fw-bold" style="white-space: nowrap; font-size: 0.85rem;">Conference Team</a></li>
           </ul>
         </div>
